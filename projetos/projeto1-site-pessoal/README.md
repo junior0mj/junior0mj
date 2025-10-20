@@ -4,7 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Site Pessoal - José Martins</title>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+    header { text-align: center; margin-bottom: 30px; }
+    h1 { color: #2c3e50; }
+    a { color: #2980b9; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
   <header>
@@ -26,32 +32,8 @@
     </ul>
   </section>
 
-  <script src="script.js"></script>
+  <script>
+    console.log("Bem-vindo ao site pessoal de José Martins!");
+  </script>
 </body>
 </html>
-
-
-
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  background-color: #f4f4f4;
-  color: #333;
-}
-header {
-  text-align: center;
-  margin-bottom: 30px;
-}
-h1 {
-  color: #2c3e50;
-}
-a {
-  color: #2980b9;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: underline;
-}
-
-
-console.log("Bem-vindo ao site pessoal de José Martins!");
