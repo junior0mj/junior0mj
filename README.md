@@ -37,13 +37,10 @@ Atualmente, estou em busca de oportunidades para aplicar e aprimorar meus conhec
 
 ## 🔗 Contatos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jose-martins-da-silva-junior)  
-- 🧠 [GitHub](https://github.com/junior0rmj)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-martins-371b2b271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🧠 [GitHub](https://github.com/junior0mj)  
 - ✉️ **jm.martinsfla@gmail.com**
-
----
-
-> *Atividade desenvolvida para a disciplina Bootcamp - Prof. Marcelo Carboni Gomes.*
+- 
 
 <!--
 **junior0mj/junior0mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
